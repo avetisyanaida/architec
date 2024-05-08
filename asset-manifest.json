@@ -1,0 +1,36 @@
+{
+  "files": {
+    "main.css": "/architec/static/css/main.2a3ecb65.css",
+    "main.js": "/architec/static/js/main.d5a08c2c.js",
+    "static/media/garden2.jpg": "/architec/static/media/garden2.64f568738396779893bf.jpg",
+    "static/media/garden5.jpg": "/architec/static/media/garden5.aad2dcc9790af0fcc719.jpg",
+    "static/media/garden4.jpg": "/architec/static/media/garden4.361f4a1632281edbd4b1.jpg",
+    "static/media/design.png": "/architec/static/media/design.38fdcd92fab8203cbf5b.png",
+    "static/media/sec1.jpg": "/architec/static/media/sec1.14edff5767026892fd0f.jpg",
+    "static/media/plan.png": "/architec/static/media/plan.7ebaa1f64cdaea5be8eb.png",
+    "static/media/bg.png": "/architec/static/media/bg.60a6723c9cc263a645e5.png",
+    "static/media/stone.jpg": "/architec/static/media/stone.c49d1e5f5938a73a8a3b.jpg",
+    "static/media/arc6.png": "/architec/static/media/arc6.fab455f3e0bc570da370.png",
+    "static/media/arc1.png": "/architec/static/media/arc1.276499fa9f5921cca169.png",
+    "static/media/arc2.png": "/architec/static/media/arc2.0532b8e32170156860d5.png",
+    "static/media/man.png": "/architec/static/media/man.878131b8dccc5e405150.png",
+    "static/media/garden1.jpg": "/architec/static/media/garden1.3c23b5cedd32bd17606b.jpg",
+    "static/media/garden3.png": "/architec/static/media/garden3.8f7aeceb8cf13ab435af.png",
+    "static/media/rakurs.png": "/architec/static/media/rakurs.10c3ddd62ca3ac0c3385.png",
+    "static/media/sport.svg": "/architec/static/media/sport.76905909c0dfe88e5f8303884eed7da1.svg",
+    "static/media/education.svg": "/architec/static/media/education.bf132186f35473372661c651efc10fed.svg",
+    "static/media/transport.svg": "/architec/static/media/transport.d975cb8f3a9b77515fdadf2ece8403a7.svg",
+    "static/media/shop.svg": "/architec/static/media/shop.94f694a40c057107c49cd9ac875792ef.svg",
+    "static/media/cafe.svg": "/architec/static/media/cafe.043b8876666d54af2be83c69026b1fe1.svg",
+    "static/media/health.svg": "/architec/static/media/health.cbb36e304b2a151c836915a5c8653767.svg",
+    "static/media/park.svg": "/architec/static/media/park.60697aff0d26b4a81c65fe6432affebe.svg",
+    "index.html": "/architec/index.html",
+    "static/media/menu-dropdown.svg": "/architec/static/media/menu-dropdown.21ca2d0ca77ec4e1f255.svg",
+    "main.2a3ecb65.css.map": "/architec/static/css/main.2a3ecb65.css.map",
+    "main.d5a08c2c.js.map": "/architec/static/js/main.d5a08c2c.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.2a3ecb65.css",
+    "static/js/main.d5a08c2c.js"
+  ]
+}
